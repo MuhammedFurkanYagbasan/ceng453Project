@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="backendNetworkServer">
+    <output-path>$PROJECT_DIR$/out/artifacts/backendNetworkServer</output-path>
+    <root id="archive" name="backendNetworkServer.jar">
+      <element id="module-output" name="MultiplayerServer" />
+    </root>
+  </artifact>
+</component>
